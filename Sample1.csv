@@ -1,0 +1,11 @@
+src_port,dst_port,packet_size,duration,label
+12345,80,512,0.3,normal
+443,22,1400,1.2,normal
+1025,21,2500,5.5,intrusion
+6789,8080,300,0.1,normal
+80,445,2600,4.8,intrusion
+5555,23,3200,6.0,intrusion
+60000,443,480,0.4,normal
+4444,25,2700,3.2,intrusion
+8888,8080,520,0.2,normal
+135,139,3100,7.5,intrusion
